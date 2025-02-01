@@ -81,7 +81,7 @@ body {
   main {
     margin-left: 22rem;
     width: 70.5rem;
-    height: 60rem;
+    height: auto;
     align-self: stretch;
     flex-grow: 0;
     display: flex;

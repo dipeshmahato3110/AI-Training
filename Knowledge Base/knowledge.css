@@ -81,7 +81,7 @@ body {
 main {
     margin-left: 22rem;
     width: 70.5rem;
-    height: 60rem;
+    height: auto;
     align-self: stretch;
     flex-grow: 0;
     display: flex;
@@ -98,7 +98,6 @@ main {
 }
 
 .container {
-    /* margin-top: 0.5rem; */
     background: #ffffff;
     padding: 20px;
     border-radius: 10px;
